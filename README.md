@@ -1,6 +1,6 @@
 # LLM Conversation Keyword Extractor
 
-Simple keyword extraction from conversation JSON files using spaCy.
+Simple keyword extraction from AI conversation JSON files using spaCy.
 
 ## Overview
 
